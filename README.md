@@ -11,7 +11,7 @@ Hi, I'm Desirée! ☀️
 - JavaScript
 - Angular, TypeScript
 - HTML/CSS, Bootstrap
-  loading...
+-loading...
 
 ## 🚀 Obiettivi futuri / Future Goals
 - Deepen my knowledge of machine learning and artificial intelligence.
