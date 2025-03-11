@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 2200px;
+}
+
+h4{
+    margin-left: 50px;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#fotoPrimo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    max-width: 100%;
+}
+
+
+#secondoCont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#secondoCont img{
+    max-width: 100%;
+    padding: 30px;
+}
+
+#secondoCont p{
+    font-size: 30px;
+    text-align: center;
+}
+
+#terzoCont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+#uno, #due, #tre{
+    margin: 50px;
+    max-width: 100%;
+    text-align: center;
+}
+
+#terzoCont p{
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    padding: 70px;
+    max-width: 100%;
+}
+
+#quartoCont{
+    display: flex;
+}
+
+section{
+    display: flex;
+    padding: 30px;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+#info, #Education, #contacts{
+    margin: 10px;
+    height: 200px;
+    text-align: center;
+    width: 45%;
+}
+
+
+
+
