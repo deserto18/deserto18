@@ -1,4 +1,4 @@
-# Eilà, sono Desirée ☀️
+# Hi there, sono Desirée ☀️
 
 ✏️ Attualmente sto studiando per diventare web developer, qui mi sento  libera di pubblicare mini progetti per dimostrare le mie capacità e monitorare i miei progressi! 
 
